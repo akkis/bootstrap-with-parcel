@@ -118,5 +118,5 @@ parcelRequire = (function (modules, cache, entry, globalName) {
 
   return newRequire;
 })({"Focm":[function(require,module,exports) {
-console.log('++++++++');
+console.log('From akkis with ♥️');
 },{}]},{},["Focm"], null)
